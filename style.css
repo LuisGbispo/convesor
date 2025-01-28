@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0%;
     box-sizing: border-box;
-    font-family: 'Roboto', serif;
+   
     outline: none;
 }
 
@@ -93,7 +93,7 @@ color: #777777;
 font-size: 14px;
 }
 
-.currency-value{
+.currency-value, .currency-value-to-convert {
 color: #555555;
 font-weight: 700;
 font-size: 20px;
